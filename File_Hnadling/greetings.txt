@@ -1,0 +1,2 @@
+hello india 
+i am learning cpp file handling
